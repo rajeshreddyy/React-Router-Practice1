@@ -1,0 +1,13 @@
+.home-img {
+  height: 120px;
+  width: 120px;
+}
+.home-label {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.home-container {
+  margin: 50px;
+  padding: 60px;
+}

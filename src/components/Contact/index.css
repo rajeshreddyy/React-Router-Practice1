@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.contact-img {
+  height: 120px;
+  width: 120px;
+}
+.contact-label {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.contact-container {
+  margin: 50px;
+  padding: 60px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.not-found-img {
+  height: 250px;
+  width: 250px;
+}
+.not-found-label {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.not-found-container {
+  margin: 50px;
+  padding: 60px;
+}

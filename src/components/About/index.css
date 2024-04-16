@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.about-img {
+  height: 120px;
+  width: 120px;
+}
+.about-label {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.about-container {
+  margin: 80px;
+  padding: 60px;
+}
+.about-description {
+  font-family: 'Roboto';
+  color: #555555;
+  text-align: center;
+}
